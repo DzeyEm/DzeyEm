@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡   My programming languages are: Java, C++, Python, MySQL, MSSQL, VB.Net and C#
+- ⚡   My programming languages are: Java, C++, Python, MySQL, MSSQL, Visual Basic and C#
 - 🖥   HTML/CSS/Javascript/PHP for Web Dev
 <!--
 **DzeyEm/DzeyEm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
