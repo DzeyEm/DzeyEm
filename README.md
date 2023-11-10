@@ -1,6 +1,6 @@
 ### Hi! I am JM Laylo👋
 - 🖤   Interested in Programming and web development
-- 🌱   I’m currently learning Java STREAM API and different JS Frameworks like React
+- 🌱   I’m currently learning Java STREAM API and different JS Frameworks like Node
 - ⚡   My programming languages are: Java, C++, Python, MySQL, MSSQL, Visual Basic and C#
 - 🖥   HTML/CSS/Javascript/PHP for Web Dev
 <!--
