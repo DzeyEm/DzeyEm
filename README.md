@@ -1,7 +1,7 @@
 ### Hi! I am JM Laylo👋
 - 🖤   Interested in Programming and web development
-- 🌱   I’m currently learning Java STREAM API and different JS Frameworks like Node
-- ⚡   My programming languages are: Java, C++, Python, MySQL, Visual Basic and C#
+- 🌱   I’m currently learning Java STREAM API and Node JS and soid principle of OOP in PHP
+- ⚡   My programming languages are: Java and Javascript
 - 🖥   HTML/CSS/Javascript/PHP for Web Dev
 <!--
 **DzeyEm/DzeyEm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
