@@ -1,6 +1,6 @@
 ### Hi! I am JM Laylo👋
 - 🖤   Interested in Programming and web development
-- 🌱   I’m currently learning Java STREAM API and Node JS and soid principle of OOP in PHP
+- 🌱   I’m currently learning Java STREAM API and Node JS and solid principle of OOP in PHP
 - ⚡   My programming languages are: Java and Javascript
 - 🖥   HTML/CSS/Javascript/PHP for Web Dev
 <!--
